@@ -39,4 +39,4 @@ file:
   upload-dir: src/main/resources/static/images
 
 app:
-  version: 0.1.1
+  version: 0.1.2
